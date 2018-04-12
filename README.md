@@ -34,8 +34,8 @@ The final projects of the student teams for the 5th Workshop on Road Traffic Mon
 [team6-slides]: https://docs.google.com/presentation/d/1cTuS8FWgHuhoUesjBXL4naTedBy3lkAg0gWeuaF_pgo/edit?usp=sharing
 [team6-code]: https://github.com/mcv-m6-video/mcv-m6-2018-team6
 
-[team7-slides]:
-[team7-code]:
+[team7-slides]: https://docs.google.com/presentation/d/1ADPmJzXzQae1tG8CEU9k5mmagYiHqYWEWogObFleBc0/edit?usp=sharing
+[team7-code]: https://github.com/mcv-m6-video/mcv-m6-2018-team7
 
 [team8-slides]: https://docs.google.com/presentation/d/1GgvD_Hnn-2GLvDzik_qr1JNEuMHfOUU9SbkHbf38tfo/
 [team8-code]: https://github.com/mcv-m6-video/mcv-m6-2018-team8
