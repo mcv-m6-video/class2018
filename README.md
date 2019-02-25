@@ -6,7 +6,7 @@ The final projects of the student teams for the 5th Workshop on Road Traffic Mon
 | Team     |                         |                      |
 |----------|:-----------------------:|:--------------------:|
 | Team 1   | [Slides][team1-slides]  | [Code][team1-code]   |
-| Team 2   | [Slides][team2-slides]  | [Code][team2-code]   |
+| Team 2   | [Slides][team2-slides]  | -   |
 | Team 3   | [Slides][team3-slides]  | [Code][team3-code]   |
 | Team 4   | [Slides][team4-slides]  | [Code][team4-code]   |
 | Team 5   | [Slides][team5-slides]  | [Code][team5-code]   |
@@ -20,7 +20,6 @@ The final projects of the student teams for the 5th Workshop on Road Traffic Mon
 [team1-code]: https://github.com/mcv-m6-video/mcv-m6-2018-team1
 
 [team2-slides]: https://docs.google.com/presentation/d/16Laa4aFNtYXyBeDqTTXi3pS4N0iIgKwo4eFrPv-wv84/edit?usp=sharing
-[team2-code]
 
 [team3-slides]: https://docs.google.com/presentation/d/1i6mCk7M9S2_9BwLvgRGfxXa3VOz3jPq9z2R4t725Me8/edit?usp=sharing
 [team3-code]: https://github.com/mcv-m6-video/mcv-m6-2018-team3
